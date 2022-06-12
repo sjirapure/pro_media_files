@@ -1,0 +1,25 @@
+
+git clone ---url---  cloning ur repo
+
+cd dir_name
+
+git status
+
+Push :
+
+git add ---file name"
+git add -A
+
+git commit -m "measssage"
+
+git push origin main
+
+Branch:
+
+git pull
+
+git checkout ---branchname---
+
+Pull:
+
+git pull origin main
